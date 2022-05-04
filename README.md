@@ -1,0 +1,2 @@
+# .NetCoreStudy
+.NETCoreの学習
